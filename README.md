@@ -10,3 +10,4 @@
 <p align = "left"> <a href="https://www.python.org" target="_blank"> <img src = "https: / /raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "alt =" python "largura =" 40 "altura =" 40 "/></a> </p>
 
 <p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=joaov1821&show_icons=true&locale=en" alt = " joaov1821 "/> </p>
+
