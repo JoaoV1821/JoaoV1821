@@ -1,5 +1,5 @@
 ## Olá eu sou o João Vitor Araújo dos Santos, estudante de programação!
-<div align="center">
+<div align="left">
   <a href="https://github.com/JoaoV1821">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoV1821&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoV1821&layout=compact&langs_count=7&theme=nightowl"/>
