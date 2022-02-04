@@ -15,7 +15,7 @@
   ##
   
  <div>
-   <a href="www.linkedin.com/in/joão-vitor-araújo-dos-santos-44644021a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ara%C3%BAjo-dos-santos-44644021a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bg5tNMp6mQYuc3jJ9a3zODA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:joaovitoraraujo1821@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
    ![Snake animation](https://github.com/JoaoV1821/JoaoV1821/blob/output/github-contribution-grid-snake.svg)
